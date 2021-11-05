@@ -1,6 +1,7 @@
 Seneryo:
 Bir Satış Firması için veri tabanı hazırlanmak istenmektedir. İlgili Satış Firması, 
-Müşterilerinin; Adı, Soyadı, TC Numarası, Telefon Numarası, Adres bilgileri gibi bilgileri saklamak istemektedir. Aynı zamanda ilgili firma Müşterilerinin siparişlerinide tutmak istemektedir. 
+Müşterilerinin; Adı, Soyadı, TC Numarası, Telefon Numarası, Adres bilgileri gibi bilgileri saklamak istemektedir.
+Aynı zamanda ilgili firma Müşterilerinin siparişlerinide tutmak istemektedir. 
 Siparişlerin; Ürün Kodu, Adeti gibi bilgileri olacaktır. 
 Müşterinin Adres Bilgileri; İl, ilçe, posta kodu gibi bilgiler olacaktır.
 
